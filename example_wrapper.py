@@ -7,8 +7,8 @@ def fix_my_coordinates(original_point):
 
 def main():
     original_point = {
-            'x': 55,
-            'y': 122
+            'x': 150,
+            'y': 740
         }
     fix_my_coordinates(original_point)
 

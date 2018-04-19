@@ -1,4 +1,4 @@
-#-------------------------------------------------------------------------------
+# -------------------------------------------------------------------------------
 # Name:         Coordinate Normalizer
 # Purpose:      Corrects latitude and longitude decimal degree values to match a -90 to 90 and -180 to 180 format.
 #               Takes an object containing 'x' and 'y' properties, with values as doubles.
