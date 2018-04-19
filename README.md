@@ -7,7 +7,7 @@ Check out the example_wrapper for an example on common use.
     import coordinate_norm
     
     original_point = {
-            'x': 55,
-            'y': 122
+            'x': 215,
+            'y': 340
         }
     revised_point = coordinate_norm.get_new_point(original_point)
